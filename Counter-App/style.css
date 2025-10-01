@@ -1,0 +1,9 @@
+body{
+    margin: 30px;
+}
+
+
+button:hover{
+    background-color: skyblue;
+    cursor: pointer;
+}
