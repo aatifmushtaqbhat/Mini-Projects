@@ -8,10 +8,10 @@ Each folder is a standalone mini project I built while learning and practicing.
 ## 📂 Projects
 
 ### Day 1
-- [Counter App](./counter-app)
+- [Counter App](./Counter-App)
 
 ### Day 2
-- [Calculator App](./calculator-app)
+- [Calculator App](./A Simple Calculator)
 
 ---
 
