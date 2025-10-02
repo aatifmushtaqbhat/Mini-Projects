@@ -11,7 +11,7 @@ Each folder is a standalone mini project I built while learning and practicing.
 - [Counter App](./Counter-App)
 
 ### Day 2
-- [Calculator App](./A Simple Calculator)
+- [Calculator App](./ASimpleCalculator)
 
 ---
 
