@@ -1,11 +1,27 @@
-# Mini-Projects
+# Mini Projects 🚀
 
-A collection of small practice projects to learn and experiment with coding concepts.
+This repository contains my small practice projects in **HTML, CSS, and JavaScript**.  
+Each folder is a standalone mini project I built while learning and practicing.  
 
-## Projects
+---
 
-### 1. Counter App
-A simple app to increase or decrease a counter using buttons.  
-**Folder:** `Counter-App`
+## 📂 Projects
 
-###
+### Day 1
+- [Counter App](./Counter-App)
+
+### Day 2
+- [Calculator App](./Simple-Calculator)
+
+---
+
+## 🛠️ Tech Used
+- HTML
+- CSS
+- JavaScript
+- DOM Manipulation
+
+---
+
+## 📌 Notes
+I’ll keep adding new mini projects daily as part of my coding journey.
