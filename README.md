@@ -15,6 +15,10 @@ Each folder is a standalone mini project I built while learning and practicing.
 
 ### Day 3
 - [Calculator-V2 (Optimized-code)](./Calculator-V2(Optimized-code))
+ 
+### Day 2
+- [Calculator-V3](./Calculator-V3)
+ 
 ---
 
 ## 🛠️ Tech Used
