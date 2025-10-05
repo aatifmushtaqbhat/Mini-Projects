@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=4, initial-scale=1.0">
+    <title>Calculator-V4</title>
+</head>
+<body>
+    <h1>Calculator-V4</h1>
+    
+    <input id="num1" type="number" placeholder="Enter the First Number">
+    <input id="num2" type="number" placeholder="Enter the Second Number">
+
+    <button onclick="calculate('add')">ADD</button>
+    <button onclick="calculate('sub')">SUB</button>
+    <button onclick="calculate('mult')">MULT</button>
+    <button onclick="calculate('div')">DIV</button>
+
+    <button onclick="clearSc()">Reset</button>
+
+    <p id="result">"Result will appear here"</p>
+
+    <h3>History</h3>
+    <ul id="historyList"></ul>
+    <button onclick="clearHistory()">Clear History</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
