@@ -18,6 +18,9 @@ Each folder is a standalone mini project I built while learning and practicing.
  
 ### Day 4
 - [Calculator-V3](./Calculator-V3)
+
+### Day 5
+- [Calculator-V4](./Calculator-V4)
  
 ---
 
