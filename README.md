@@ -21,7 +21,9 @@ Each folder is a standalone mini project I built while learning and practicing.
 
 ### Day 5
 - [Calculator-V4](./Calculator-V4)
- 
+
+### Day 6
+- [BG-ColorFlipper](./Color-Flipper) 
 ---
 
 ## 🛠️ Tech Used
